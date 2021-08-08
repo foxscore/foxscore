@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 - 🔭 **I’m currently working on** nothing *(publicly)*
-- 🌱 **I’m currently learning** Unreal Engine 4.26
+- 🌱 **I’m currently learning** Unreal Engine 4/5 **&** SDL
 - 📫 **How to reach me:** [felixkaiser2000@protonmail.com](mailto:felixkaiser2000@protonmail.com)
 - 🔑 **Public Key:** [pgp_keys.asc](https://keybase.io/foxscore/pgp_keys.asc)
   - **Fingerprint:** `A63F` `034A` `85E6` `2727` `F6EB` `1E86` `8B18` `4177` `D1DD` `9021`
@@ -15,6 +15,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=foxscore&theme=react&hide_border=true)](https://git.io/streak-stats)
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=foxscore&hide=css&layout=compact&theme=react&hide_border=true&cache_seconds=1800)](https://github.com/foxscore/github-readme-stats)
+<br />
+`Most of my commits are in private repos 😅`
 
 <!--
 **foxscore/foxscore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
