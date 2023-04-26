@@ -1,15 +1,11 @@
 ## Hello there 👋
 
-- 🔭 **I’m currently working on** nothing *(publicly)*
-- 🌱 **I’m currently learning** Unity OpenXR
-- 📫 **How to reach me:** [felixkaiser2000@protonmail.com](mailto:felixkaiser2000@protonmail.com)
+- 🧳 **Working as** Software Engineer (Junior) **at** `hidden`
+- 🔭 **I’m currently working on** Karussell *(commissioned)*
+- 🌱 **I’m currently learning** Flutter
+- 📫 **How to reach me:** [Discord](https://discordapp.com/users/222660933992841217) [Email](mailto:felixkaiser2000@protonmail.com)
 - 🔑 **Public Key:** [pgp_keys.asc](https://keybase.io/foxscore/pgp_keys.asc)
   - **Fingerprint:** `A63F` `034A` `85E6` `2727` `F6EB` `1E86` `8B18` `4177` `D1DD` `9021`
-
-## Thoughts 'n stuff
-> Discord.js update broke all my bots 😭
-
-> Damn, Unreal Engine 5 looking real fine
 
 ## Stats or something, idk I stole this
 ![Felix Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxscore&hide=stars&theme=react&hide_border=true)
