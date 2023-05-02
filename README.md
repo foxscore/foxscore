@@ -4,7 +4,7 @@
 - 🔭 **I’m currently working on** Karussell *(commissioned)*
 - 🌱 **I’m currently learning** Flutter
 - 📫 **How to reach me:** [Discord](https://discordapp.com/users/222660933992841217) [Email](mailto:felixkaiser2000@protonmail.com)
-- 🔑 **Public Key:** [pgp_keys.asc](https://keybase.io/foxscore/pgp_keys.asc)
+- 🔑 **Public Key:** [pgp_keys.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/A63F034A85E62727F6EB1E868B184177D1DD9021)
   - **Fingerprint:** `A63F` `034A` `85E6` `2727` `F6EB` `1E86` `8B18` `4177` `D1DD` `9021`
 
 ## Stats or something, idk I stole this
