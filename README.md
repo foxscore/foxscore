@@ -9,9 +9,6 @@
 
 ## Stats or something, idk I stole this
 ![Felix Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxscore&hide=stars&theme=react&hide_border=true)
-<br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=foxscore&theme=react&hide_border=true)](https://git.io/streak-stats)
-<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=foxscore&hide=css&layout=compact&theme=react&hide_border=true&cache_seconds=1800)](https://github.com/foxscore/github-readme-stats)
 <br />
 `Most of my commits are in private repos 😅`
